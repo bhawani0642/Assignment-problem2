@@ -1,0 +1,6 @@
+Question)Differentiate Between Compiler and Interpreter.
+
+Compiler
+It compiles the source code into bytecode.The code which we write is known as source code and when we run our compiler it just convert that code into bytecode.
+Interpreter
+Now the work of compiler is done and the use of Interpreter comes in context, it actually convert that bytecode into Machine language.
